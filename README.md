@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tobi-Akindele
 - 👀 I’m interested in Backend development and basically what's required for my team's success.
-- 🌱 I’m currently learning Mobile application development with Flutter, cloud computing, AWS and so on...
+
 - 💞️ I’m looking to collaborate on any interesting projects, I'm enthusiastic about learning new things.
 - 📫 How to reach me tobi.akindele3@gmail.com
 
